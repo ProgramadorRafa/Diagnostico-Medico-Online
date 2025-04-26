@@ -71,3 +71,9 @@ label{
 .buttons button:last-child{
     background-color: #ff00009f;
 }
+
+@media screen and (max-width:520px){
+    body{
+        padding:1rem;
+    }
+}
